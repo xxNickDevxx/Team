@@ -3,9 +3,12 @@ Manuel
 Nicolas
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
+=======
+>>>>>>> 17a08fbb7c739a4ca5f40cb599a716728341c389
 Soy Adrian y estoy cambiando el fichero con el cambio 1
 
 Soy Adrian y estoy cambiando el fichero con el cambio 2
@@ -13,7 +16,18 @@ Soy Adrian y estoy cambiando el fichero con el cambio 2
 Soy Adrian y estoy cambiando el fichero con el cambio 3
 =======
 manuel mete cambio1
+<<<<<<< HEAD
 
 =======
 Adeu a los cambios
 >>>>>>> 55554fb5e7e187f621463403e1217f6ffefbda3e
+=======
+=======
+Soy Adrian y estoy cambiando el fichero con el cambio 4
+=======
+Soy Adrian y estoy cambiando el fichero con el cambio 5
+=======
+=======
+Adeu a los cambios
+
+>>>>>>> 17a08fbb7c739a4ca5f40cb599a716728341c389
